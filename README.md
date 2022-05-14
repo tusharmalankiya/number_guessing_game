@@ -4,5 +4,5 @@
 
 # now, here trick is you need to guess the number in minimum attempts. 
 
-## this game can be player between any no. of players. you can play with your friends and compared to each other by the number of attempts each one had took and one with minimum attempts wins the game.
+## this game can be played between any no. of players. you can play with your friends and compared to each other by the number of attempts each one had took and one with minimum attempts wins the game.
 
