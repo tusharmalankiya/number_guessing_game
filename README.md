@@ -18,6 +18,9 @@ This repository hosts a simple yet engaging number guessing game implemented in 
 
 ## How to Play
 1. Clone the repository to your local machine.
+```bash
+  git clone https://github.com/tusharmalankiya/number_guessing_game.git
+```
 2. Compile the source code using a C compiler such as GCC.
 3. Run the executable file.
 4. Follow the prompts to input your guesses and receive hints until you guess the correct number.
